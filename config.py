@@ -17,7 +17,7 @@ config_dict = {
      'lfp_region': 'CA1',
 
      # Data saving
-     'processed_path': '/gh/data2/hc3/dfs/oct21/',
+     'processed_path': 'processed_data/',
      'verbose': True,
 
      # Filtering
