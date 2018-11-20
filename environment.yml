@@ -22,9 +22,11 @@ dependencies:
   - pip:
     - appnope==0.1.0
     - backcall==0.1.0
+    - bleach==3.0.2
     - bycycle==0.1.2
     - cycler==0.10.0
     - decorator==4.3.0
+    - docutils==0.14
     - h5py==2.8.0
     - ipykernel==5.1.0
     - ipython==7.0.1
@@ -34,7 +36,7 @@ dependencies:
     - jupyter-core==4.4.0
     - kiwisolver==1.0.1
     - matplotlib==3.0.0
-    - neurodsp==0.3.1
+    - neurodsp==1.0.0
     - nose==1.3.7
     - numpy==1.15.2
     - pandas==0.23.4
@@ -51,6 +53,8 @@ dependencies:
     - python-dateutil==2.7.3
     - pytz==2018.5
     - pyzmq==17.1.2
+    - readme-renderer==24.0
+    - requests==2.20.0
     - requests-toolbelt==0.8.0
     - scikit-learn==0.20.0
     - scipy==1.1.0
@@ -59,9 +63,10 @@ dependencies:
     - six==1.11.0
     - statsmodels==0.9.0
     - tornado==5.1.1
-    - tqdm==4.26.0
+    - tqdm==4.28.1
     - traitlets==4.3.2
-    - twine==1.11.0
+    - twine==1.12.1
+    - urllib3==1.24.1
     - wcwidth==0.1.7
 prefix: /Users/scott/anaconda/envs/shapyspiky
 
